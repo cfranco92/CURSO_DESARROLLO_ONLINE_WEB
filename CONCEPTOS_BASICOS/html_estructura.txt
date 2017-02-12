@@ -1,0 +1,7 @@
+HTML y su estructura
+--------------------------------------------------------------------------------
+La manera de estructurar un sitio web con HTML es muy parecido a un árbol
+genealógico. Tenemos objetos padres, hijos, etc. Veremos un ejemplo muy básico
+de una página con 3 niveles.
+
+Se anexa imagen del árbol.

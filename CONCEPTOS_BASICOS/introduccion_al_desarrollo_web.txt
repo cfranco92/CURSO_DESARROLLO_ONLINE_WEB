@@ -1,0 +1,23 @@
+Introducción al desarrollo web
+--------------------------------------------------------------------------------
+Todo aquello que puedes ver desde un navegador web tiene algo que ver con
+Desarrollo Web. Existen muchas divisiones o especialidades: desde Front-end
+hasta Backend, sin embargo, primeros nos concentraremos en aprender la base
+de cualquier sitio web.
+
+HTML es la estructura de tu sitio. Si fuera un auto, sería describir sus
+elementos: “Mi auto tiene 4 ruedas, un volante, 4 puertas, 2 ventanas”.
+En los sitios web, esto puede traducirse a títulos, texto, imágenes, footers,
+headers, etc. Por ser un lenguaje de marcado, HTML cuenta con etiquetas que
+nos ayudan a estructurar nuestro sitio.
+
+¿Cómo volvemos nuestro sitio más personalizable y único?, esto es gracias a CSS.
+“Mi auto tiene 4 llantas grandes, 4 puertas rojas, 2 ventanas polarizadas y un
+volante de piel”, quiere decir, describimos las características de los elementos.
+
+Con CSS podemos indicar: color, tamaño de fuente, tipo de letra, posición, de
+cualquier elemento dentro de nuestro HTML, por lo cual, siempre van a estar
+interactuando entre sí.
+
+
+¿Listo para crear tu primer sitio web?

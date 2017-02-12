@@ -1,0 +1,8 @@
+Etiquetas, atributos y valores
+--------------------------------------------------------------------------------
+Cada elemento en HTML funciona cómo una caja. Y a su vez, los elementos cuentan
+con atributos que completan el elemento.
+
+Por ejemplo, La etiqueta <img> no serviría de nada si especificar de donde tomar
+la imagen gracias al atributo src. Por cierto, podemos inspeccionar casi
+cualquier sitio y ver su estructura HTML gracias al inspector de elementos. 

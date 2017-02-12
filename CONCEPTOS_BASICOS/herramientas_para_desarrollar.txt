@@ -1,0 +1,9 @@
+¿Qué herramientas necesito para desarrollar?
+--------------------------------------------------------------------------------
+Como profesionales del desarrollo web, necesitamos de al menos una herramienta
+para iniciar: Un editor de texto.
+
+¿Cuál es el mejor?, es muy sencillo, el que más te acomode. Existen muchas
+opciones: Atom, Sublime Text, Notepad++, Emacs, etc.
+
+Online: Codepen, jsbin
